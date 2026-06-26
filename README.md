@@ -13,7 +13,7 @@
     <img src="https://raw.githubusercontent.com/matiasbellidor/matiasbellidor/main/portfolio.png" width="52" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:rbellidomatias@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=rbellidomatias@gmail.com">
     <img src="https://raw.githubusercontent.com/matiasbellidor/matiasbellidor/main/gmail.png" width="52" alt="Email" />
   </a>
 </div>
@@ -22,11 +22,11 @@
 
 ## 🧭 Executive Summary
 
-I'm an **Actuarial Science** student at UBA (Buenos Aires) working at the intersection of **quantitative modeling, AI engineering, and business strategy**. My focus is consistent: building systems that turn analytical complexity into **capital-efficient, measurable outcomes** — from linear-programming optimizers to LLM-powered automation.
+I'm an **Actuarial Science** student at UBA (Buenos Aires) building at the intersection of **Data Science, AI engineering, and business strategy**. I don't just analyze data — I extract the decisions hidden inside it.
 
-Every project starts with an economic or operational problem and ends with a system that solves it at scale.
+My work connects statistical and quantitative modeling with real business problems: identifying patterns in complex datasets, translating them into actionable insights, and engineering the automated systems that act on those insights at scale. From linear-programming optimizers to LLM-powered workflows, every project I build starts with a business question and ends with a measurable outcome.
 
-> 🎯 **Open to opportunities** at top-tier multinational firms where quantitative rigor and AI engineering create strategic advantage.
+> 🎯 **Open to Data Analyst / Data Scientist roles** at top-tier multinational firms where analytical rigor drives strategic decisions and creates competitive advantage.
 
 ---
 
@@ -137,7 +137,7 @@ Every project starts with an economic or operational problem and ends with a sys
     <img src="https://raw.githubusercontent.com/matiasbellidor/matiasbellidor/main/portfolio.png" width="52" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:rbellidomatias@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=rbellidomatias@gmail.com">
     <img src="https://raw.githubusercontent.com/matiasbellidor/matiasbellidor/main/gmail.png" width="52" alt="Email" />
   </a>
 
