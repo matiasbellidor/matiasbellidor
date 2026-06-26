@@ -1,32 +1,20 @@
-<!-- ════════════════════════════════════════════════════════════════
-     INSERT BANNER IMAGE HERE · RECOMMENDED SIZE: 1500x500 px
-     Example (uncomment the line below and replace with your URL):
-     <p align="center"><img src="YOUR_BANNER_URL" alt="Banner" width="100%" /></p>
-════════════════════════════════════════════════════════════════ -->
-
-<h1 align="center">Matías Rodrigo Bellido</h1>
-
 <p align="center">
-  <code>Actuary</code> &nbsp;·&nbsp; <code>Data Scientist</code> &nbsp;·&nbsp; <code>AI Solutions Engineer</code>
+  <img src="https://raw.githubusercontent.com/matiasbellidor/matiasbellidor/main/banner.png" alt="Matías Rodrigo Bellido" width="100%" />
 </p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&lines=Turning+quantitative+rigor+into+business+outcomes.;Linear+Programming+%7C+LLM+Engineering+%7C+Automation;Capital+efficiency+through+intelligent+systems" alt="Tagline" />
-</div>
 
 <br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matiasbellido">
-    <img src="https://raw.githubusercontent.com/matiasbellidor/matiasbellidor/main/assets/linkedin.png" width="52" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/matiasbellidor/matiasbellidor/main/linkedin.png" width="52" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://matiasbellido.vercel.app">
-    <img src="https://raw.githubusercontent.com/matiasbellidor/matiasbellidor/main/assets/portfolio.png" width="52" alt="Portfolio" />
+    <img src="https://raw.githubusercontent.com/matiasbellidor/matiasbellidor/main/portfolio.png" width="52" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:rbellidomatias@gmail.com">
-    <img src="https://raw.githubusercontent.com/matiasbellidor/matiasbellidor/main/assets/gmail.png" width="52" alt="Email" />
+    <img src="https://raw.githubusercontent.com/matiasbellidor/matiasbellidor/main/gmail.png" width="52" alt="Email" />
   </a>
 </div>
 
@@ -53,8 +41,8 @@ Every project starts with an economic or operational problem and ends with a sys
 ## 🧰 Core Stack & Tools
 
 #### AI & LLM Engineering
-![Anthropic Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white) &nbsp;
-![Model Context Protocol](https://img.shields.io/badge/MCP-D97757?style=flat-square&logo=anthropic&logoColor=white) &nbsp;
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white) &nbsp;
+![MCP](https://img.shields.io/badge/MCP-D97757?style=flat-square&logo=anthropic&logoColor=white) &nbsp;
 ![LLM Tool Use](https://img.shields.io/badge/LLM_Tool_Use-8957E5?style=flat-square&logoColor=white) &nbsp;
 ![Function Calling](https://img.shields.io/badge/Function_Calling-8957E5?style=flat-square&logoColor=white)
 
@@ -142,15 +130,15 @@ Every project starts with an economic or operational problem and ends with a sys
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matiasbellido">
-    <img src="https://raw.githubusercontent.com/matiasbellidor/matiasbellidor/main/assets/linkedin.png" width="52" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/matiasbellidor/matiasbellidor/main/linkedin.png" width="52" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://matiasbellido.vercel.app">
-    <img src="https://raw.githubusercontent.com/matiasbellidor/matiasbellidor/main/assets/portfolio.png" width="52" alt="Portfolio" />
+    <img src="https://raw.githubusercontent.com/matiasbellidor/matiasbellidor/main/portfolio.png" width="52" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:rbellidomatias@gmail.com">
-    <img src="https://raw.githubusercontent.com/matiasbellidor/matiasbellidor/main/assets/gmail.png" width="52" alt="Email" />
+    <img src="https://raw.githubusercontent.com/matiasbellidor/matiasbellidor/main/gmail.png" width="52" alt="Email" />
   </a>
 
   <br/><br/>
