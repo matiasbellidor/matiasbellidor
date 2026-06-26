@@ -102,7 +102,7 @@ My work connects statistical and quantitative modeling with real business proble
 
 **Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) &nbsp; ![SciPy SLSQP](https://img.shields.io/badge/SciPy_SLSQP-8CAAE6?style=flat-square&logo=scipy&logoColor=white) &nbsp; ![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=flat-square&logo=numpy&logoColor=white)
 
-![Status](https://img.shields.io/badge/Status-Uploading_Soon-555?style=flat-square)
+[![Repository](https://img.shields.io/badge/Repository-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/matiasbellidor/constrained-utility-optimizer)
 
 <br/>
 
