@@ -126,6 +126,49 @@ My work connects statistical and quantitative modeling with real business proble
 
 ---
 
+## 🎓 Certifications & Continuous Learning
+
+#### 🧠 Advanced AI Engineering & Architecture
+| Credential | Issuer |
+| :--- | :--- |
+| Model Context Protocol (MCP): Advanced Topics | Anthropic |
+| Introduction to Model Context Protocol | Anthropic |
+| Introduction to Agent Skills | Anthropic |
+| Introduction to Subagents | Anthropic |
+
+#### 📊 Data Science & Quantitative Rigor
+| Credential | Issuer |
+| :--- | :--- |
+| Data Science Methodology | IBM |
+| Data Science Tools | IBM |
+| Introduction to Data Science | Santander Open Academy |
+
+#### ⚙️ Applied AI & Development Workflows
+| Credential | Issuer |
+| :--- | :--- |
+| Claude Code in Action | Anthropic |
+| Claude Code 101 | Anthropic |
+| Claude Platform 101 | Anthropic |
+
+#### 💬 AI Fluency & Interaction Frameworks
+| Credential | Issuer |
+| :--- | :--- |
+| AI Fluency: Framework & Foundations | Anthropic |
+| AI Fluency for Students | Anthropic |
+| AI Fluency for Educators | Anthropic |
+| Introduction to Claude Cowork | Anthropic |
+| Claude 101: Everyday Work Tasks | Anthropic |
+
+#### 💼 Business Strategy & Leadership
+| Credential | Issuer |
+| :--- | :--- |
+| Finance | FEMSA |
+| Agile Management | Santander Open Academy |
+| Strategic Negotiation | Santander Open Academy |
+| Storytelling | Santander Open Academy |
+
+---
+
 ## 📬 Connect
 
 <div align="center">
