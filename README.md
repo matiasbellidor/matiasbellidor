@@ -13,7 +13,7 @@
     <img src="https://raw.githubusercontent.com/matiasbellidor/matiasbellidor/main/portfolio.png" width="52" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&to=rbellidomatias@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=rbellidomatias%40gmail.com&su=Hi%20Mat%C3%ADas%20%E2%80%94%20I%27d%20like%20to%20connect&body=Hola%20Mat%C3%ADas%2C%20%C2%BFc%C3%B3mo%20est%C3%A1s%3F%20Quer%C3%ADa%20consultarte%20sobre...">
     <img src="https://raw.githubusercontent.com/matiasbellidor/matiasbellidor/main/gmail.png" width="52" alt="Email" />
   </a>
 </div>
@@ -137,7 +137,7 @@ My work connects statistical and quantitative modeling with real business proble
     <img src="https://raw.githubusercontent.com/matiasbellidor/matiasbellidor/main/portfolio.png" width="52" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&to=rbellidomatias@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=rbellidomatias%40gmail.com&su=Hi%20Mat%C3%ADas%20%E2%80%94%20I%27d%20like%20to%20connect&body=Hola%20Mat%C3%ADas%2C%20%C2%BFc%C3%B3mo%20est%C3%A1s%3F%20Quer%C3%ADa%20consultarte%20sobre...">
     <img src="https://raw.githubusercontent.com/matiasbellidor/matiasbellidor/main/gmail.png" width="52" alt="Email" />
   </a>
 
