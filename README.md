@@ -19,8 +19,11 @@
 </div>
 
 ---
-<h1 align="center"> Hi, I'm Matías Rodrigo Bellido <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<h1 align="center">Hi, I'm Matías Rodrigo Bellido <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="left">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=35">
+</p>
 
 ## 🧭 Summary
 
@@ -122,44 +125,66 @@ My work connects statistical and quantitative modeling with real business proble
 
 ## 🎓 Certifications & Continuous Learning
 
-#### 🧠 Advanced AI Engineering & Architecture
-| Credential | Issuer |
-| :--- | :--- |
-| Model Context Protocol (MCP): Advanced Topics | Anthropic |
-| Introduction to Model Context Protocol | Anthropic |
-| Introduction to Agent Skills | Anthropic |
-| Introduction to Subagents | Anthropic |
-
-#### 📊 Data Science & Quantitative Rigor
-| Credential | Issuer |
-| :--- | :--- |
-| Data Science Methodology | IBM |
-| Data Science Tools | IBM |
-| Introduction to Data Science | Santander Open Academy |
-
-#### ⚙️ Applied AI & Development Workflows
-| Credential | Issuer |
-| :--- | :--- |
-| Claude Code in Action | Anthropic |
-| Claude Code 101 | Anthropic |
-| Claude Platform 101 | Anthropic |
-
-#### 💬 AI Fluency & Interaction Frameworks
-| Credential | Issuer |
-| :--- | :--- |
-| AI Fluency: Framework & Foundations | Anthropic |
-| AI Fluency for Students | Anthropic |
-| AI Fluency for Educators | Anthropic |
-| Introduction to Claude Cowork | Anthropic |
-| Claude 101: Everyday Work Tasks | Anthropic |
-
-#### 💼 Business Strategy & Leadership
-| Credential | Issuer |
-| :--- | :--- |
-| Finance | FEMSA |
-| Agile Management | Santander Open Academy |
-| Strategic Negotiation | Santander Open Academy |
-| Storytelling | Santander Open Academy |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 Advanced AI Engineering & Architecture</h4>
+      <table width="100%">
+        <tr><th align="left">Credential</th><th align="left">Issuer</th></tr>
+        <tr><td>Model Context Protocol (MCP): Advanced Topics</td><td>Anthropic</td></tr>
+        <tr><td>Introduction to Model Context Protocol</td><td>Anthropic</td></tr>
+        <tr><td>Introduction to Agent Skills</td><td>Anthropic</td></tr>
+        <tr><td>Introduction to Subagents</td><td>Anthropic</td></tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 Data Science & Quantitative Rigor</h4>
+      <table width="100%">
+        <tr><th align="left">Credential</th><th align="left">Issuer</th></tr>
+        <tr><td>Data Science Methodology</td><td>IBM</td></tr>
+        <tr><td>Data Science Tools</td><td>IBM</td></tr>
+        <tr><td>Introduction to Data Science</td><td>Santander Open Academy</td></tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚙️ Applied AI & Development Workflows</h4>
+      <table width="100%">
+        <tr><th align="left">Credential</th><th align="left">Issuer</th></tr>
+        <tr><td>Claude Code in Action</td><td>Anthropic</td></tr>
+        <tr><td>Claude Code 101</td><td>Anthropic</td></tr>
+        <tr><td>Claude Platform 101</td><td>Anthropic</td></tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💬 AI Fluency & Interaction Frameworks</h4>
+      <table width="100%">
+        <tr><th align="left">Credential</th><th align="left">Issuer</th></tr>
+        <tr><td>AI Fluency: Framework & Foundations</td><td>Anthropic</td></tr>
+        <tr><td>AI Fluency for Students</td><td>Anthropic</td></tr>
+        <tr><td>AI Fluency for Educators</td><td>Anthropic</td></tr>
+        <tr><td>Introduction to Claude Cowork</td><td>Anthropic</td></tr>
+        <tr><td>Claude 101: Everyday Work Tasks</td><td>Anthropic</td></tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💼 Business Strategy & Leadership</h4>
+      <table width="100%">
+        <tr><th align="left">Credential</th><th align="left">Issuer</th></tr>
+        <tr><td>Finance</td><td>FEMSA</td></tr>
+        <tr><td>Agile Management</td><td>Santander Open Academy</td></tr>
+        <tr><td>Strategic Negotiation</td><td>Santander Open Academy</td></tr>
+        <tr><td>Storytelling</td><td>Santander Open Academy</td></tr>
+      </table>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="AI & Data Science" />
+    </td>
+  </tr>
+</table>
 
 ---
 
