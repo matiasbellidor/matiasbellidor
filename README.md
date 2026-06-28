@@ -21,14 +21,14 @@
 ---
 <h1 align="center"> Hi, I'm Matías Rodrigo Bellido <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
----
-## 🧭 Executive Summary
+
+## 🧭 Summary
 
 I'm an **Actuarial Science** student at FCE-UBA (University of Buenos Aires) building at the intersection of **Data Science, AI engineering, and business strategy**. I don't just analyze data — I extract the decisions hidden inside it.
 
 My work connects statistical and quantitative modeling with real business problems: identifying patterns in complex datasets, translating them into actionable insights, and engineering the automated systems that act on those insights at scale. From linear-programming optimizers to LLM-powered workflows, every project I build starts with a business question and ends with a measurable outcome.
 
-> 🎯 **Open to Data Analyst / Data Scientist roles** at top-tier multinational firms where analytical rigor drives strategic decisions and creates competitive advantage.
+> 🎯 **Open to Data Analyst / Data Scientist roles** at start-ups or firms where analytical rigor drives strategic decisions and creates competitive advantage.
 
 ---
 
@@ -179,5 +179,5 @@ My work connects statistical and quantitative modeling with real business proble
   </a>
 
   <br/><br/>
-  <sub><i>Quantitative rigor · Engineered for scale · Driven by business impact</i></sub>
+  <sub><i>© 2026 Matías Rodrigo Bellido.</i></sub>
 </div>
