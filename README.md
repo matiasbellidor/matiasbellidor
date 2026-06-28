@@ -21,6 +21,7 @@
 ---
 <h1 align="center"> Hi, I'm Matías Rodrigo Bellido <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+---
 ## 🧭 Executive Summary
 
 I'm an **Actuarial Science** student at FCE-UBA (University of Buenos Aires) building at the intersection of **Data Science, AI engineering, and business strategy**. I don't just analyze data — I extract the decisions hidden inside it.
