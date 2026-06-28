@@ -21,8 +21,9 @@
 ---
 
 <h1 align="center">Hi, I'm Matías Rodrigo Bellido <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="left">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=35">
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=35">
 </p>
 
 ## 🧭 Summary
@@ -31,11 +32,15 @@ I'm an **Actuarial Science** student at FCE-UBA (University of Buenos Aires) bui
 
 My work connects statistical and quantitative modeling with real business problems: identifying patterns in complex datasets, translating them into actionable insights, and engineering the automated systems that act on those insights at scale. From linear-programming optimizers to LLM-powered workflows, every project I build starts with a business question and ends with a measurable outcome.
 
-> 🎯 **Open to Data Analyst / Data Scientist roles** at start-ups or firms where analytical rigor drives strategic decisions and creates competitive advantage.
+> 🎯 **Actively exploring Data Analyst and Data Scientist roles. My focus is on startups and firms that leverage analytical rigor for strategic growth and sustainable competitive advantage.**
 
 ---
 
 ## 🧰 Core Stack & Tools
+
+<!-- 🎞️ REEMPLAZÁ LA URL ABAJO CON TU GIF ELEGIDO -->
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif"/>
+<!-- ════════════════════════════════════════════ -->
 
 #### AI & LLM Engineering
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white) &nbsp;
@@ -56,6 +61,8 @@ My work connects statistical and quantitative modeling with real business proble
 ![Webhooks](https://img.shields.io/badge/Webhooks-5A45FF?style=flat-square&logoColor=white) &nbsp;
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logoColor=white) &nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+<br clear="both"/>
 
 ---
 
