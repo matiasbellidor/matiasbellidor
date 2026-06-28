@@ -38,7 +38,7 @@ My work connects statistical and quantitative modeling with real business proble
 
 ## 🧰 Core Stack & Tools
 
-<!-- 🎞️ REEMPLAZÁ LA URL ABAJO CON TU GIF ELEGIDO -->
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif"/>
 <!-- ════════════════════════════════════════════ -->
 
@@ -68,7 +68,7 @@ My work connects statistical and quantitative modeling with real business proble
 
 ## 🚀 Featured Engineering Projects
 
-<!-- ═══════════════ COPY THIS BLOCK TO ADD A NEW PROJECT ═══════════════
+<!-- ═══════════════ COPY AND PASTE THIS BLOCK TO ADD A NEW PROJECT ═══════════════
 
 ### 🔹 Project Name · Short Tagline
 
