@@ -130,6 +130,18 @@ My work connects statistical and quantitative modeling with real business proble
 
 ---
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matiasbellidor/matiasbellidor/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matiasbellidor/matiasbellidor/output/github-contribution-grid-snake.svg" />
+    <img alt="snake gif" src="https://raw.githubusercontent.com/matiasbellidor/matiasbellidor/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ## 🎓 Certifications & Continuous Learning
 
 <table width="100%">
@@ -188,7 +200,7 @@ My work connects statistical and quantitative modeling with real business proble
       </table>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="AI & Data Science" />
+      <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="100%" alt="AI & Data Science" />
     </td>
   </tr>
 </table>
