@@ -120,6 +120,16 @@ My work connects statistical and quantitative modeling with real business proble
 
 <br/>
 
+### 💸 ZIRA-AI · Financial Reconciliation Agent
+
+> Local AI agent that automates monthly receipt-to-bank-statement reconciliation for small accounting firms — detecting duplicate charges, mismatched amounts, unexplained fees and potential fraud, with all inference running on-device so confidential financial data never leaves the machine.
+
+**Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) &nbsp; ![QVAC SDK](https://img.shields.io/badge/QVAC_SDK-0D1117?style=flat-square&logoColor=white) &nbsp; ![pandas](https://img.shields.io/badge/pandas-E70488?style=flat-square&logo=pandas&logoColor=white) &nbsp; ![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+
+[![Repository](https://img.shields.io/badge/Repository-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/felipebridge/aleph-hack) &nbsp; ![Event](https://img.shields.io/badge/Aleph_Hackathon_2026-555?style=flat-square)
+
+<br/>
+
 ### 📦 Bellido Importaciones · Commercial Arbitrage Platform
 
 > A capital-efficiency model for cross-border B2C retail without static inventory — capturing price arbitrage across markets while minimizing locked capital and operational risk.
